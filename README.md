@@ -1,26 +1,26 @@
-## Swift UI Tutorial [Swift UI Tutorial](https://developer.apple.com/tutorials/app-dev-training/getting-started)
+## [Swift UI Tutorial](https://developer.apple.com/tutorials/app-dev-training/getting-started)
 
-- **Using Stacks to Arrange Views** [Using Stacks to Arrange Views](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views) tutorial.
+- [Using Stacks to Arrange Views](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views) tutorial.
 
-- **Creating a CardView** [Creating a CardView](https://developer.apple.com/tutorials/app-dev-training/creating-a-cardview) tutorial.
+- [Creating a CardView](https://developer.apple.com/tutorials/app-dev-training/creating-a-cardview) tutorial.
 
-- **Displaying Data in a List** [Displaying Data in a List](https://developer.apple.com/tutorials/app-dev-training/displaying-data-in-a-list) tutorial.
+- [Displaying Data in a List](https://developer.apple.com/tutorials/app-dev-training/displaying-data-in-a-list) tutorial.
 
-- **Creating a Navigation Hierarchy** [Creating a Navigation Hierarchy](https://developer.apple.com/tutorials/app-dev-training/creating-a-navigation-hierarchy) tutorial.
+- [Creating a Navigation Hierarchy](https://developer.apple.com/tutorials/app-dev-training/creating-a-navigation-hierarchy) tutorial.
 
-- **Creating the Edit View** [Creating the Edit View](https://developer.apple.com/tutorials/app-dev-training/creating-the-edit-view) tutorial.
+- [Creating the Edit View](https://developer.apple.com/tutorials/app-dev-training/creating-the-edit-view) tutorial.
 
-- **Passing Data With Bindings** [Passing Data With Bindings](https://developer.apple.com/tutorials/app-dev-training/passing-data-with-bindings) tutorial.
+- [Passing Data With Bindings](https://developer.apple.com/tutorials/app-dev-training/passing-data-with-bindings) tutorial.
 
-- **Managing State and Life Cycle** [Managing State and Life Cycle](https://developer.apple.com/tutorials/app-dev-training/managing-state-and-life-cycle) tutorial.
+- [Managing State and Life Cycle](https://developer.apple.com/tutorials/app-dev-training/managing-state-and-life-cycle) tutorial.
 
-- **Updating App Data** [Updating App Data](https://developer.apple.com/tutorials/app-dev-training/updating-app-data) tutorial.
+- [Updating App Data](https://developer.apple.com/tutorials/app-dev-training/updating-app-data) tutorial.
 
-- **Persisting Data** [Persisting Data](https://developer.apple.com/tutorials/app-dev-training/persisting-data) tutorial.
+- [Persisting Data](https://developer.apple.com/tutorials/app-dev-training/persisting-data) tutorial.
 
-- **Drawing the Timer View** [Drawing the Timer View](https://developer.apple.com/tutorials/app-dev-training/drawing-the-timer-view) tutorial.
+- [Drawing the Timer View](https://developer.apple.com/tutorials/app-dev-training/drawing-the-timer-view) tutorial.
 
-- **Transcribing Speech to Text** [Transcribing Speech to Text](https://developer.apple.com/tutorials/app-dev-training/transcribing-speech-to-text) tutorial.
+- [Transcribing Speech to Text](https://developer.apple.com/tutorials/app-dev-training/transcribing-speech-to-text) tutorial.
 
 ## Tour of the App
 
